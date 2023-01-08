@@ -1,5 +1,9 @@
 # Prework Study Guide Webpage
 
+[![License](https://img.shields.io/badge/License-BSD_3-Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+
+
+
 ## Description
 
 A website providing notes and guidance on the prework for coding bootcamp. It contains notes on HTML, CSS, Git, Javascript as well as using the console to see the website in action. It compiles the notes in a format that is quickly accessible and easy to add to.
