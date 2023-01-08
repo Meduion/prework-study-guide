@@ -1,9 +1,5 @@
 # Prework Study Guide Webpage
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-orange.svg)](https://opensource.org/licenses/Apache-2.0)
-
-
-
 ## Description
 
 A website providing notes and guidance on the prework for coding bootcamp. It contains notes on HTML, CSS, Git, Javascript as well as using the console to see the website in action. It compiles the notes in a format that is quickly accessible and easy to add to.
